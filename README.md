@@ -10,6 +10,15 @@ Fanachess Analyzer is a Chrome Extension designed to analyze chess board positio
 
 ## Interface Preview
 
+### Live Move Suggestions Overlay (Hold `Alt`)
+You can hold down the **Alt** key on your keyboard to instantly display the glowing analysis overlay arrow on the board showing the engine's recommended best move.
+
+![Gameplay Preview](assets/preview.gif)
+
+---
+
+### Control Panel & Popup Settings
+
 | In-Game HUD Control Panel | Extension Settings Popup |
 |---|---|
 | ![In-Game HUD Panel](assets/panel.png) | ![Extension Settings Popup](assets/popup.png) |
