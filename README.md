@@ -10,7 +10,9 @@ Fanachess Analyzer is a Chrome Extension designed to analyze chess board positio
 
 ## Interface Preview
 
-![Fanachess Analyzer Settings Panel](C:/Users/USER/.gemini/antigravity-ide/brain/9ed053d3-9518-4a43-8a8f-6ac5335a88bd/media__1784055163367.png)
+| In-Game HUD Control Panel | Extension Settings Popup |
+|---|---|
+| ![In-Game HUD Panel](assets/panel.png) | ![Extension Settings Popup](assets/popup.png) |
 
 ---
 
