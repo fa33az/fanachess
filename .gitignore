@@ -1,0 +1,4 @@
+*.js
+icons/
+manifest.json
+popup.html
