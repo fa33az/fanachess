@@ -59,3 +59,9 @@ Download the compiled release package named `fanachess.zip` from this repository
 2. Hold down the **Alt** key to show the best move suggestion arrow on the board.
 3. Press the **backtick key** (located below Esc) to toggle the visibility of the settings panel.
 4. Press the configured hotkey (Spacebar, Q, F, or E) to execute the suggested move using the mouse drag simulation.
+
+---
+
+## License & Copyright
+
+Copyright (c) 2026 fa33az. All rights reserved.
